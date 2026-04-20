@@ -1,0 +1,12 @@
+[
+  {"Customer_ID": "CUST001", "Age": 23, "Gender": "Male", "Income": 25000, "Purchases": 5, "Total_Spend": 12000, "Last_Purchase_Days_Ago": 12, "Membership_Years": 1, "Preferred_Category": "Electronics", "Churn": "No"},
+  {"Customer_ID": "CUST002", "Age": 35, "Gender": "Female", "Income": 48000, "Purchases": 12, "Total_Spend": 45000, "Last_Purchase_Days_Ago": 45, "Membership_Years": 3, "Preferred_Category": "Fashion", "Churn": "No"},
+  {"Customer_ID": "CUST003", "Age": 29, "Gender": "Male", "Income": 32000, "Purchases": 3, "Total_Spend": 8000, "Last_Purchase_Days_Ago": 90, "Membership_Years": 2, "Preferred_Category": "Groceries", "Churn": "Yes"},
+  {"Customer_ID": "CUST004", "Age": 42, "Gender": "Female", "Income": 67000, "Purchases": 20, "Total_Spend": 98000, "Last_Purchase_Days_Ago": 5, "Membership_Years": 5, "Preferred_Category": "Electronics", "Churn": "No"},
+  {"Customer_ID": "CUST005", "Age": 31, "Gender": "Male", "Income": 54000, "Purchases": 7, "Total_Spend": 23000, "Last_Purchase_Days_Ago": 60, "Membership_Years": 3, "Preferred_Category": "Fashion", "Churn": "Yes"},
+  {"Customer_ID": "CUST006", "Age": 27, "Gender": "Female", "Income": 30000, "Purchases": 4, "Total_Spend": 10000, "Last_Purchase_Days_Ago": 120, "Membership_Years": 1, "Preferred_Category": "Groceries", "Churn": "Yes"},
+  {"Customer_ID": "CUST007", "Age": 50, "Gender": "Male", "Income": 85000, "Purchases": 25, "Total_Spend": 150000, "Last_Purchase_Days_Ago": 3, "Membership_Years": 6, "Preferred_Category": "Electronics", "Churn": "No"},
+  {"Customer_ID": "CUST008", "Age": 38, "Gender": "Female", "Income": 62000, "Purchases": 15, "Total_Spend": 72000, "Last_Purchase_Days_Ago": 20, "Membership_Years": 4, "Preferred_Category": "Fashion", "Churn": "No"},
+  {"Customer_ID": "CUST009", "Age": 26, "Gender": "Male", "Income": 28000, "Purchases": 2, "Total_Spend": 5000, "Last_Purchase_Days_Ago": 150, "Membership_Years": 1, "Preferred_Category": "Groceries", "Churn": "Yes"},
+  {"Customer_ID": "CUST010", "Age": 45, "Gender": "Female", "Income": 72000, "Purchases": 18, "Total_Spend": 89000, "Last_Purchase_Days_Ago": 10, "Membership_Years": 5, "Preferred_Category": "Electronics", "Churn": "No"}
+]
